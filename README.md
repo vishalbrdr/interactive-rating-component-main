@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vishalbrdr/interactive-rating-component-main/)
-- Live Site URL: [Add live site URL here](https://vishalbrdr.github.io/interactive-rating-component-main/)
+- Solution URL: [Github](https://github.com/vishalbrdr/interactive-rating-component-main/)
+- Live Site URL: [GH pages](https://vishalbrdr.github.io/interactive-rating-component-main/)
 
 ## My process
 
